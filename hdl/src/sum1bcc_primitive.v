@@ -1,8 +1,7 @@
 module sum1bcc_primitive (A, B, Ci,Cout,S);// la linea 1 inicia la descripcion del modulo de suma 
 //en donde se le da un nombre y entre parentesis se coloca las variables que manejara 
 
-// En esta linea de codigo  se definan las entradas y salidas deL sumador
-//
+
 
   input  A;
   input  B; // En estas linea de codigo  se definan para cada variable culaes son  las entradas y salidas deL sumador

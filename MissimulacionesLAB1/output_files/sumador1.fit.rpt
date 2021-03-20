@@ -1,5 +1,5 @@
 Fitter report for sumador1
-Sat Mar 20 13:28:35 2021
+Sat Mar 20 17:14:52 2021
 Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
 
 
@@ -63,7 +63,7 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------------------------------------------------------------+
 ; Fitter Summary                                                                   ;
 +------------------------------------+---------------------------------------------+
-; Fitter Status                      ; Successful - Sat Mar 20 13:28:35 2021       ;
+; Fitter Status                      ; Successful - Sat Mar 20 17:14:52 2021       ;
 ; Quartus Prime Version              ; 20.1.1 Build 720 11/11/2020 SJ Lite Edition ;
 ; Revision Name                      ; sumador1                                    ;
 ; Top-level Entity Name              ; sumador1                                    ;
@@ -197,7 +197,7 @@ https://fpgasoftware.intel.com/eula.
 +--------------+
 ; Pin-Out File ;
 +--------------+
-The pin-out file can be found in C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/output_files/sumador1.pin.
+The pin-out file can be found in C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/output_files/sumador1.pin.
 
 
 +---------------------------------------------------------------------+
@@ -1457,7 +1457,7 @@ Info (176215): I/O bank details before I/O pin placement
         Info (176213): I/O bank number 6 does not use VREF pins and has undetermined VCCIO pins. 1 total pin(s) used --  57 pins available
         Info (176213): I/O bank number 7 does not use VREF pins and has undetermined VCCIO pins. 0 total pin(s) used --  72 pins available
         Info (176213): I/O bank number 8 does not use VREF pins and has undetermined VCCIO pins. 0 total pin(s) used --  71 pins available
-Info (171121): Fitter preparation operations ending: elapsed time is 00:00:02
+Info (171121): Fitter preparation operations ending: elapsed time is 00:00:01
 Info (14896): Fitter has disabled Advanced Physical Optimization because it is not supported for the current family.
 Info (170189): Fitter placement preparation operations beginning
 Info (170190): Fitter placement preparation operations ending: elapsed time is 00:00:00
@@ -1477,17 +1477,17 @@ Info (334004): Delay annotation completed successfully
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
 Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:02
-Info (144001): Generated suppressed messages file C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/output_files/sumador1.fit.smsg
+Info (144001): Generated suppressed messages file C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/output_files/sumador1.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 6 warnings
-    Info: Peak virtual memory: 5382 megabytes
-    Info: Processing ended: Sat Mar 20 13:28:36 2021
-    Info: Elapsed time: 00:00:22
+    Info: Peak virtual memory: 5384 megabytes
+    Info: Processing ended: Sat Mar 20 17:14:53 2021
+    Info: Elapsed time: 00:00:23
     Info: Total CPU time (on all processors): 00:00:25
 
 
 +----------------------------+
 ; Fitter Suppressed Messages ;
 +----------------------------+
-The suppressed messages can be found in C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/output_files/sumador1.fit.smsg.
+The suppressed messages can be found in C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/output_files/sumador1.fit.smsg.
 
 
