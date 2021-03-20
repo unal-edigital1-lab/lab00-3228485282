@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/sum1bcc.sv
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/sumador1.sv
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/db/sumador1.cbx.xml
+design_name = sumador1
+instance = comp, \Cout~output , Cout~output, sumador1, 1
+instance = comp, \S~output , S~output, sumador1, 1
+instance = comp, \B~input , B~input, sumador1, 1
+instance = comp, \A~input , A~input, sumador1, 1
+instance = comp, \Ci~input , Ci~input, sumador1, 1
+instance = comp, \Add1~0 , Add1~0, sumador1, 1
+instance = comp, \Add1~1 , Add1~1, sumador1, 1
+design_name = hard_block
+instance = comp, \~ALTERA_ASDO_DATA1~~ibuf , ~ALTERA_ASDO_DATA1~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_FLASH_nCE_nCSO~~ibuf , ~ALTERA_FLASH_nCE_nCSO~~ibuf, hard_block, 1
+instance = comp, \~ALTERA_DATA0~~ibuf , ~ALTERA_DATA0~~ibuf, hard_block, 1

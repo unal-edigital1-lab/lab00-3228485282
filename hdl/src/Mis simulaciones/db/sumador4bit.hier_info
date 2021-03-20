@@ -1,0 +1,48 @@
+|sumador4bit
+xi[0] => xi[0].IN1
+xi[1] => xi[1].IN1
+xi[2] => xi[2].IN1
+xi[3] => xi[3].IN1
+yi[0] => yi[0].IN1
+yi[1] => yi[1].IN1
+yi[2] => yi[2].IN1
+yi[3] => yi[3].IN1
+co <= sumador1:s3.Cout
+zi[0] <= sumador1:s0.S
+zi[1] <= sumador1:s1.S
+zi[2] <= sumador1:s2.S
+zi[3] <= sumador1:s3.S
+
+
+|sumador4bit|sumador1:s0
+A => Add0.IN1
+B => Add0.IN2
+Ci => Add1.IN4
+Cout <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+S <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador4bit|sumador1:s1
+A => Add0.IN1
+B => Add0.IN2
+Ci => Add1.IN4
+Cout <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+S <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador4bit|sumador1:s2
+A => Add0.IN1
+B => Add0.IN2
+Ci => Add1.IN4
+Cout <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+S <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sumador4bit|sumador1:s3
+A => Add0.IN1
+B => Add0.IN2
+Ci => Add1.IN4
+Cout <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+S <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+
+
