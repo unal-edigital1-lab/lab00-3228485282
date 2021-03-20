@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/sum1bcc.v
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/quartus/db/lab01-sumador.cbx.xml
+design_name = sum1bcc
+instance = comp, \Cout~output , Cout~output, sum1bcc, 1
+instance = comp, \S~output , S~output, sum1bcc, 1
+instance = comp, \Ci~input , Ci~input, sum1bcc, 1
+instance = comp, \A~input , A~input, sum1bcc, 1
+instance = comp, \B~input , B~input, sum1bcc, 1
+instance = comp, \Add1~0 , Add1~0, sum1bcc, 1
+instance = comp, \Add1~1 , Add1~1, sum1bcc, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, sum1bcc, 1
