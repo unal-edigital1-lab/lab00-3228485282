@@ -16,6 +16,7 @@ Los resultados de la simulación del testBench del sumador primitivo de 1 bit se
 <p align="center">
   <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumadorprimitivo.PNG" width="350px" height="150px"/></p>
 <p align="center">Simulación del testBench del sumador primitivo de 1 bit<p align="center">
+En la anterior imagen se evidencia que el sumador primitivo de 1 bit funciona correctamente 
 
 
 
