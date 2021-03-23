@@ -29,7 +29,7 @@ En la anterior imagen se evidencia que el sumador normal de 1 bit funciona corre
 En la simulación del sumador  de 4 bit y de su respectivo  TestBench se obtuvo la siguente grafica:
 
 <p align="center">
-  <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumador4bit.PNG" width="550px" height="250px"/></p>
+  <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumador4bit.PNG" width="750px" height="350px"/></p>
 <p align="center">Figura1:Simulación del testBench del sumador  de 4 bit<p align="center">
 
 
