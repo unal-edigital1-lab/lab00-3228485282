@@ -16,7 +16,7 @@ Los resultados de la simulación del testBench del sumador primitivo de 1 bit se
   <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumadorprimitivo.PNG" width="350px" height="150px"/></p>
 <p align="center">Figura1:Simulación del testBench del sumador primitivo de 1 bit<p align="center">
 
-En la anterior imagen se evidencia que el sumador primitivo de 1 bit funciona correctamente ,ahora vemaos la simulación de sumador noramal:
+En la anterior imagen se evidencia que el sumador primitivo de 1 bit funciona correctamente, dado que en cada instante de tiempo que alguna entrada cambia de estado se cuample la teoria de sumatiara de numeros binarios  .Ahora vemaos la simulación de sumador noramal:
 
 <p align="center">
   <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumadornormal.PNG" width="350px" height="150px"/></p>
