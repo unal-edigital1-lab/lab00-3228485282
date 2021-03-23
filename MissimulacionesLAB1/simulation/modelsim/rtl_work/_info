@@ -10,81 +10,53 @@ z2
 cModel Technology
 Z0 dC:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/simulation/modelsim
 vsumador1
-Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z2 !s110 1616533943
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1616535397
 !i10b 1
 !s100 Vle7Iz>KVd<=nj@ZkgGiL1
-Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
 IRY]YYiC58`FASo4VRPY371
-Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
 S1
 R0
 w1616278447
 8C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1.sv
 FC:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1.sv
-!i122 1
+!i122 0
 L0 1 19
-Z5 OV;L;2020.1;71
+Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1616533943.000000
+!s108 1616535396.000000
 !s107 C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1.sv|
 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1|C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1.sv|
 !i113 1
-Z7 o-sv -work work
-Z8 !s92 -sv -work work {+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1}
-Z9 tCvgOpt 0
-vsumador4bit
+o-sv -work work
+!s92 -sv -work work {+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1}
+Z4 tCvgOpt 0
+vsumador1_TB
+!s110 1616535398
+!i10b 1
+!s100 Q;Kk5;Ko3TM;cl<h92`T92
 R1
+Ik_1SF659X?CnQd@9ii_>13
 R2
-!i10b 1
-!s100 JeTH<14O1l`f@g_Zd:HXz3
-R3
-I9:LNkBC55EQl]Oh3A>=VI1
-R4
-S1
 R0
-w1616252468
-8C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit.sv
-FC:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit.sv
-!i122 0
-L0 1 15
-R5
+w1616250827
+8C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1_TB.v
+FC:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1_TB.v
+!i122 1
+L0 1 33
+R3
 r1
 !s85 0
 31
-R6
-!s107 C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit.sv|
-!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1|C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit.sv|
+!s108 1616535397.000000
+!s107 C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1|C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1_TB.v|
 !i113 1
-R7
-R8
-R9
-vsumador4bit_TB
-R1
-!s110 1616533944
-!i10b 1
-!s100 R:W8;mVLLNjmh;NB0BZX11
-R3
-IPj<K<13hhkQ0Bk9KAH[<o1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1}
 R4
-S1
-R0
-w1616533908
-8C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv
-FC:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv
-!i122 2
-L0 1 35
-R5
-r1
-!s85 0
-31
-R6
-!s107 C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv|
-!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1|C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv|
-!i113 1
-R7
-R8
-R9
-nsumador4bit_@t@b
+nsumador1_@t@b
