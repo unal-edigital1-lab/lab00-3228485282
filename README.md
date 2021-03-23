@@ -20,8 +20,6 @@ En la anterior imagen se evidencia que el sumador primitivo de 1 bit funciona co
   <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumadornormal.PNG" width="350px" height="150px"/></p>
 <p align="center">Figura1:Simulación del testBench del sumador primitivo de 1 bit<p align="center">
 
-En la anterior imagen se evidencia que el sumador normal de 1 bit funciona correctamente ,Y que su respuesta es igual a la del sumador primitivo :
-
-
+En la anterior imagen se evidencia que el sumador normal de 1 bit funciona correctamente ,Y que su respuesta es igual a la del sumador primitivo, lo cual es coherente con lo esperado 
 
 
