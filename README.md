@@ -32,5 +32,7 @@ En la simulación del sumador  de 4 bit y de su respectivo  TestBench se obtuvo 
   <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumador4bit.PNG" width="750px" height="350px"/></p>
 <p align="center">Figura1:Simulación del testBench del sumador  de 4 bit<p align="center">
 
+En la imagen de la Simulación del sumador de 4 bit podemos apreciar que los resulatdos optenidos concuerdan con lo esperado , puesto que estos  cumple con la tabla de verdad
+
 
 
