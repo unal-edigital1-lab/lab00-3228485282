@@ -1,5 +1,5 @@
 # lab01- sumador 
-### laboratorio 01 introducción a HDL
+## laboratorio 01 introducción a HDL
 
 * Fabian Garzon Garcia.
 Carrera:Ingenieria electrica.
