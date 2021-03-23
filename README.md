@@ -25,7 +25,7 @@ En la anterior imagen se evidencia que el sumador primitivo de 1 bit funciona co
 En la anterior imagen se evidencia que el sumador normal de 1 bit funciona correctamente ,Y que su respuesta es igual a la del sumador primitivo, lo cual es coherente con lo esperado.
 
 
-<h2>Sumadores de 4 bit</h2>
+<h2>Sumador de 4 bit</h2>
 
 
 
