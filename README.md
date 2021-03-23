@@ -26,7 +26,8 @@ En la anterior imagen se evidencia que el sumador normal de 1 bit funciona corre
 
 
 <h2>Sumador de 4 bit</h2>
-El sumado de 4 bit se implemento 
+En la simulación del sumador  de 4 bit y de su respectivo  TestBench se obtuvo la siguente grafica:
+
 
 
 
