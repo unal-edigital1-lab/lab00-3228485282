@@ -27,7 +27,9 @@ En la anterior imagen se evidencia que el sumador normal de 1 bit funciona corre
 
 <h2>Sumador de 4 bit</h2>
 En la simulación del sumador  de 4 bit y de su respectivo  TestBench se obtuvo la siguente grafica:
-
+<p align="center">
+  <img src="https://github.com/unal-edigital1-lab/lab00-3228485282/blob/master/sumador44bit.PNG" width="750px" height="350px"/></p>
+<p align="center">Figura1:Simulación del testBench del sumador  de 4 bit<p align="center">
 
 En la imagen de la Simulación del sumador de 4 bit podemos apreciar que los resulatdos optenidos concuerdan con lo esperado , puesto que estos  cumple con  la teoria de sumatoria binaria , un ejempolo que ilustra esto se presenta en la imagen de la simulación , dado  en cada instante de tiempo cundo  alguna señal cambia de estado  se cumple la sumatoria de los dos numeros binarios.
 
