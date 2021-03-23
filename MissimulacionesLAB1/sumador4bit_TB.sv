@@ -29,7 +29,7 @@ module sumador4bit_TB;
     initial begin: TEST_CASE
      $dumpfile("sumador4bit.vcd");
      $dumpvars(-1, uut);
-     #(200) $finish;
+     #(1100) $finish;
    end
 
 endmodule

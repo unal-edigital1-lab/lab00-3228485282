@@ -12,39 +12,39 @@
 # 
 # vlog -sv -work work +incdir+C:/Users/fabia/Desktop/Electronica\ dijital/lab1/lab00-3228485282/MissimulacionesLAB1 {C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:28:26 on Mar 23,2021
+# Start time: 16:12:23 on Mar 23,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1" C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit.sv 
 # -- Compiling module sumador4bit
 # 
 # Top level modules:
 # 	sumador4bit
-# End time: 15:28:26 on Mar 23,2021, Elapsed time: 0:00:00
+# End time: 16:12:23 on Mar 23,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -sv -work work +incdir+C:/Users/fabia/Desktop/Electronica\ dijital/lab1/lab00-3228485282/MissimulacionesLAB1 {C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:28:26 on Mar 23,2021
+# Start time: 16:12:23 on Mar 23,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1" C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1.sv 
 # -- Compiling module sumador1
 # 
 # Top level modules:
 # 	sumador1
-# End time: 15:28:26 on Mar 23,2021, Elapsed time: 0:00:00
+# End time: 16:12:23 on Mar 23,2021, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 # vlog -sv -work work +incdir+C:/Users/fabia/Desktop/Electronica\ dijital/lab1/lab00-3228485282/MissimulacionesLAB1 {C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv}
 # Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-# Start time: 15:28:27 on Mar 23,2021
+# Start time: 16:12:23 on Mar 23,2021
 # vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1" C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv 
 # -- Compiling module sumador4bit_TB
 # 
 # Top level modules:
 # 	sumador4bit_TB
-# End time: 15:28:27 on Mar 23,2021, Elapsed time: 0:00:00
+# End time: 16:12:24 on Mar 23,2021, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
 # 
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  sumador4bit_TB
 # vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" sumador4bit_TB 
-# Start time: 15:28:27 on Mar 23,2021
+# Start time: 16:12:24 on Mar 23,2021
 # Loading sv_std.std
 # Loading work.sumador4bit_TB
 # Loading work.sumador4bit
@@ -99,9 +99,189 @@
 # el valor de  3 +  4 =  7
 # el valor de  3 +  5 =  8
 # el valor de  3 +  6 =  9
+# el valor de  3 +  7 = 10
+# el valor de  3 +  8 = 11
+# el valor de  3 +  9 = 12
+# el valor de  3 + 10 = 13
+# el valor de  3 + 11 = 14
+# el valor de  3 + 12 = 15
+# el valor de  3 + 13 =  0
+# el valor de  3 + 14 =  1
+# el valor de  3 + 15 =  2
+# el valor de  4 +  0 =  4
+# el valor de  4 +  1 =  5
+# el valor de  4 +  2 =  6
+# el valor de  4 +  3 =  7
+# el valor de  4 +  4 =  8
+# el valor de  4 +  5 =  9
+# el valor de  4 +  6 = 10
+# el valor de  4 +  7 = 11
+# el valor de  4 +  8 = 12
+# el valor de  4 +  9 = 13
+# el valor de  4 + 10 = 14
+# el valor de  4 + 11 = 15
+# el valor de  4 + 12 =  0
+# el valor de  4 + 13 =  1
+# el valor de  4 + 14 =  2
+# el valor de  4 + 15 =  3
+# el valor de  5 +  0 =  5
+# el valor de  5 +  1 =  6
+# el valor de  5 +  2 =  7
+# el valor de  5 +  3 =  8
+# el valor de  5 +  4 =  9
+# el valor de  5 +  5 = 10
+# el valor de  5 +  6 = 11
+# el valor de  5 +  7 = 12
+# el valor de  5 +  8 = 13
+# el valor de  5 +  9 = 14
+# el valor de  5 + 10 = 15
+# el valor de  5 + 11 =  0
+# el valor de  5 + 12 =  1
+# el valor de  5 + 13 =  2
+# el valor de  5 + 14 =  3
+# el valor de  5 + 15 =  4
+# el valor de  6 +  0 =  6
+# el valor de  6 +  1 =  7
+# el valor de  6 +  2 =  8
+# el valor de  6 +  3 =  9
+# el valor de  6 +  4 = 10
+# el valor de  6 +  5 = 11
+# el valor de  6 +  6 = 12
+# el valor de  6 +  7 = 13
+# el valor de  6 +  8 = 14
+# el valor de  6 +  9 = 15
+# el valor de  6 + 10 =  0
+# el valor de  6 + 11 =  1
+# el valor de  6 + 12 =  2
+# el valor de  6 + 13 =  3
+# el valor de  6 + 14 =  4
+# el valor de  6 + 15 =  5
+# el valor de  7 +  0 =  7
+# el valor de  7 +  1 =  8
+# el valor de  7 +  2 =  9
+# el valor de  7 +  3 = 10
+# el valor de  7 +  4 = 11
+# el valor de  7 +  5 = 12
+# el valor de  7 +  6 = 13
+# el valor de  7 +  7 = 14
+# el valor de  7 +  8 = 15
+# el valor de  7 +  9 =  0
+# el valor de  7 + 10 =  1
+# el valor de  7 + 11 =  2
+# el valor de  7 + 12 =  3
+# el valor de  7 + 13 =  4
+# el valor de  7 + 14 =  5
+# el valor de  7 + 15 =  6
+# el valor de  8 +  0 =  8
+# el valor de  8 +  1 =  9
+# el valor de  8 +  2 = 10
+# el valor de  8 +  3 = 11
+# el valor de  8 +  4 = 12
+# el valor de  8 +  5 = 13
+# el valor de  8 +  6 = 14
+# el valor de  8 +  7 = 15
+# el valor de  8 +  8 =  0
+# el valor de  8 +  9 =  1
+# el valor de  8 + 10 =  2
+# el valor de  8 + 11 =  3
+# el valor de  8 + 12 =  4
+# el valor de  8 + 13 =  5
+# el valor de  8 + 14 =  6
+# el valor de  8 + 15 =  7
+# el valor de  9 +  0 =  9
+# el valor de  9 +  1 = 10
+# el valor de  9 +  2 = 11
+# el valor de  9 +  3 = 12
+# el valor de  9 +  4 = 13
+# el valor de  9 +  5 = 14
+# el valor de  9 +  6 = 15
+# el valor de  9 +  7 =  0
+# el valor de  9 +  8 =  1
+# el valor de  9 +  9 =  2
+# el valor de  9 + 10 =  3
+# el valor de  9 + 11 =  4
+# el valor de  9 + 12 =  5
+# el valor de  9 + 13 =  6
+# el valor de  9 + 14 =  7
+# el valor de  9 + 15 =  8
+# el valor de 10 +  0 = 10
+# el valor de 10 +  1 = 11
+# el valor de 10 +  2 = 12
+# el valor de 10 +  3 = 13
+# el valor de 10 +  4 = 14
+# el valor de 10 +  5 = 15
+# el valor de 10 +  6 =  0
+# el valor de 10 +  7 =  1
+# el valor de 10 +  8 =  2
+# el valor de 10 +  9 =  3
+# el valor de 10 + 10 =  4
+# el valor de 10 + 11 =  5
+# el valor de 10 + 12 =  6
+# el valor de 10 + 13 =  7
+# el valor de 10 + 14 =  8
+# el valor de 10 + 15 =  9
+# el valor de 11 +  0 = 11
+# el valor de 11 +  1 = 12
+# el valor de 11 +  2 = 13
+# el valor de 11 +  3 = 14
+# el valor de 11 +  4 = 15
+# el valor de 11 +  5 =  0
+# el valor de 11 +  6 =  1
+# el valor de 11 +  7 =  2
+# el valor de 11 +  8 =  3
+# el valor de 11 +  9 =  4
+# el valor de 11 + 10 =  5
+# el valor de 11 + 11 =  6
+# el valor de 11 + 12 =  7
+# el valor de 11 + 13 =  8
+# el valor de 11 + 14 =  9
+# el valor de 11 + 15 = 10
+# el valor de 12 +  0 = 12
+# el valor de 12 +  1 = 13
+# el valor de 12 +  2 = 14
+# el valor de 12 +  3 = 15
+# el valor de 12 +  4 =  0
+# el valor de 12 +  5 =  1
+# el valor de 12 +  6 =  2
+# el valor de 12 +  7 =  3
+# el valor de 12 +  8 =  4
+# el valor de 12 +  9 =  5
+# el valor de 12 + 10 =  6
+# el valor de 12 + 11 =  7
+# el valor de 12 + 12 =  8
+# el valor de 12 + 13 =  9
+# el valor de 12 + 14 = 10
+# el valor de 12 + 15 = 11
+# el valor de 13 +  0 = 13
+# el valor de 13 +  1 = 14
+# el valor de 13 +  2 = 15
+# el valor de 13 +  3 =  0
+# el valor de 13 +  4 =  1
+# el valor de 13 +  5 =  2
+# el valor de 13 +  6 =  3
+# el valor de 13 +  7 =  4
+# el valor de 13 +  8 =  5
+# el valor de 13 +  9 =  6
+# el valor de 13 + 10 =  7
+# el valor de 13 + 11 =  8
+# el valor de 13 + 12 =  9
+# el valor de 13 + 13 = 10
+# el valor de 13 + 14 = 11
+# el valor de 13 + 15 = 12
+# el valor de 14 +  0 = 14
+# el valor de 14 +  1 = 15
+# el valor de 14 +  2 =  0
+# el valor de 14 +  3 =  1
+# el valor de 14 +  4 =  2
+# el valor de 14 +  5 =  3
+# el valor de 14 +  6 =  4
+# el valor de 14 +  7 =  5
+# el valor de 14 +  8 =  6
+# el valor de 14 +  9 =  7
+# el valor de 14 + 10 =  8
 # ** Note: $finish    : C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv(32)
-#    Time: 200 ps  Iteration: 0  Instance: /sumador4bit_TB
+#    Time: 1100 ps  Iteration: 0  Instance: /sumador4bit_TB
 # 1
 # Break in NamedBeginStat TEST_CASE at C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv line 32
-# End time: 15:32:33 on Mar 23,2021, Elapsed time: 0:04:06
+# End time: 16:15:46 on Mar 23,2021, Elapsed time: 0:03:22
 # Errors: 1, Warnings: 1

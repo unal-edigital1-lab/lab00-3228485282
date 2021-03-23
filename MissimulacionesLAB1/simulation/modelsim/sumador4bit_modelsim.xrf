@@ -1,7 +1,7 @@
 vendor_name = ModelSim
-source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/sumador4bit.sv
-source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/sumador4bit_TB.sv
-source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/hdl/src/Mis simulaciones/sumador1.sv
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit.sv
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador4bit_TB.sv
+source_file = 1, C:/Users/fabia/Desktop/Electronica dijital/lab1/lab00-3228485282/MissimulacionesLAB1/sumador1.sv
 design_name = sumador4bit
 instance = comp, \co~output , co~output, sumador4bit, 1
 instance = comp, \zi[0]~output , zi[0]~output, sumador4bit, 1
